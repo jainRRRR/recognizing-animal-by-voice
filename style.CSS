@@ -1,0 +1,35 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:blue ;
+}
+
+.header_div{
+    background-color: white;
+    color: red;
+}
+
+.header_div p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:grey;
+    letter-spacing: 2px;
+    font-size:12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 30px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: pink;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(191,149,156);
+}
